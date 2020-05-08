@@ -1,17 +1,11 @@
-<h4 align="center">
+<h1 align="center">
   Aplicativo produzido na Semana OmniStack 11.0
-</h4>
-
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-</p>
+</h1>
 
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="https://user-images.githubusercontent.com/29403648/81453420-e2ba4400-915f-11ea-8784-b0c95382f824.png" width="100%">
 </p>
 
 ##  Tecnologias
